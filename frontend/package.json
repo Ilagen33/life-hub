@@ -11,7 +11,7 @@
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.7.6",
     "chart.js": "^4.4.4",
-    "cloudinary": "^1.41.3",
+    "cloudinary": "^2.7.0",
     "firebase": "^10.13.1",
     "firebase-admin": "^12.4.0",
     "jwt-decode": "^4.0.0",
